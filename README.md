@@ -9,10 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callyelalves&layout=compact&langs_count=8&theme=dark"/> 
 </div>
 
-<div align="center">
-  
-</div>
-
 <div align="center"><br>
   <img align="center" alt="Callyel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Callyel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
