@@ -5,8 +5,8 @@
 - 📫 Contate-me no email: callyelalves@hotmail.com
 ##
 <div align="center">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=callyelalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callyelalves&layout=compact&langs_count=8&theme=dark"/> 
+  <img width="47%" height="180em" src="https://github-readme-stats.vercel.app/api?username=callyelalves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callyelalves&layout=compact&langs_count=8&theme=dark"/> 
 </div>
 
 <div align="center"><br>
