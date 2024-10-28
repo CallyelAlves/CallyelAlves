@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Callyel Alves 👋
 
 - 🔭 Atualmente focado no Front-end
-- 🌱 Estudando React/Typescript
+- 🌱 Desenvolvedor Front-end Angular | Ionic | ReactJS 
 - 📫 Contate-me no email: callyelalves@hotmail.com
 ##
 <div align="center">
